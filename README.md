@@ -5,15 +5,17 @@ Our task was to optimize an Unsharp Masking algorithm for grayscale images. The 
 
 ### Project 1 - Loop optimization
 
-* fffe
-* grgr
+* Loop Fusion 
+* Loop Unroll 
+* Loop Interchange 
 
 ### Project 2 - Memory Mapping
 
-* fefe
-* gege
+* Memory Hierarchy
+* Memory Size
 
 ### Project 3 - Data Reuse
 
-* fefe
-* gege
+* Data Reuse Optimization
+* Buffers
+
