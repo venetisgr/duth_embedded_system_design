@@ -16,6 +16,6 @@ Our task was to optimize an Unsharp Masking algorithm for grayscale images. The 
 
 ### Project 3 - Data Reuse
 
-* Data Reuse Optimization
+* Data Reuse Optimizations
 * Buffers
 
