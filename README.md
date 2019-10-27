@@ -13,7 +13,7 @@ Our task was to optimize an Unsharp Masking algorithm for grayscale images. The 
 * fefe
 * gege
 
-###Project 3 - Data Reuse
+### Project 3 - Data Reuse
 
 * fefe
 * gege
